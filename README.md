@@ -39,13 +39,13 @@ Lectures will provide a brief overview of the field of synthetic biology, and in
 
 | Date         | Day  | #hours | Time        | Subject                                                      |      |
 | ------------ | ---- | ------ | ----------- | ------------------------------------------------------------ | ---- |
-| 23 November  | TUE  | 4      | 14:00-18:00 | Presentation of experiments, lab etiquette and good practices, colony picking and cell culture. |      |
+| 23 November  | TUE  | 4      | 13:00-17:00 | Presentation of experiments, lab etiquette and good practices, colony picking and cell culture. |      |
 | 24 November  | WED  | 4      | 9:00-13:00  | Minipreps clones, send for sequencing, inoculate clones in  96 deep-well plates. |      |
-| 25 November  | THU  | 4      | 14:00-18:00 | → ALL: end point measurement on Plate reader to choose 30 clones. Group1: Plate reader group-run 30 clones growth overenight, Group2: cytometry measure the 96 clones in triplicates. |      |
-| 26 November  | FRI  | 4      | 14:00-18:00 | Group1: cytometry, Group2: Plate reader                      |      |
+| 25 November  | THU  | 4      | 13:00-17:00 | → ALL: end point measurement on Plate reader to choose 30 clones. Group1: Plate reader group-run 30 clones growth overenight, Group2: cytometry measure the 96 clones in triplicates. |      |
+| 26 November  | FRI  | 4      | 13:00-17:00 | Group1: cytometry, Group2: Plate reader                      |      |
 | 29 November  | MON  | 3      | 9:00-12:00  | Group1: PCR setup for linear cell free/presentation of cell-free experimetal csv/feedback on data analysis attempts |      |
 | 29 November  | MON  | 3      | 14:00-17:00 | Group2: PCR setup for linear cell free/presentation of cell-free experimetal csv/feedback on data analysis attempts |      |
-| 30 November  | TUE  | 4      | 14:00-18:00 | Gel analysis of PCR, DNA quantification using qBit and adjustment of DNA concentrations. |      |
-| 1st December | WED  | 4      | 14:00-18:00 | Preparing and running linear Cell Free experiement on plate reader. |      |
-| 2 December   | THU  | 4      | 14:00-18:00 | Data analysis                                                |      |
-| 3 december   | FRI  | 4      | 14:00-18:00 | Data analysis                                                |      |
+| 30 November  | TUE  | 4      | 13:00-17:00 | Gel analysis of PCR, DNA quantification using qBit and adjustment of DNA concentrations. |      |
+| 1st December | WED  | 4      | 13:00-17:00 | Preparing and running linear Cell Free experiement on plate reader. |      |
+| 2 December   | THU  | 4      | 13:00-17:00 | Data analysis                                                |      |
+| 3 december   | FRI  | 4      | 13:00-17:00 | Data analysis                                                |      |
